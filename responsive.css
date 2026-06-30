@@ -10,10 +10,13 @@ html {
 }
 
 body {
-  font-family: "Fugaz One-Regular", sans-serif;
-;
-  background: #2c3947;
-  color: #fff;
+  /* Use the font name provided by Google */
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700; /* Bold weight */
 }
 
 /* WRAPPER */
