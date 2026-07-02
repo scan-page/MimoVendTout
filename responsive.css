@@ -163,6 +163,9 @@ html {
   padding: 10px;
 
   border-radius: 8px;
+
+  border: 2px solid #333; /* Adjust thickness, style, and color as needed */
+ /* border-radius: 12px;     Increased radius slightly for a smoother look */
 }
 
 /* Optional: Style the images for consistency */
